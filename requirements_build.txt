@@ -1,0 +1,7 @@
+# 打包所需的依赖
+pyinstaller>=6.0.0
+
+# 程序运行依赖（这些会被自动打包进exe）
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
